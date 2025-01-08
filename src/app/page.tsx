@@ -66,7 +66,7 @@ export default function Home() {
               </p>
               <p className="flex items-center justify-center text-gray-600 hover:text-gray-800 transition-colors duration-200 group">
                 <i className="fas fa-phone w-6 text-gray-400 group-hover:text-gray-600"></i>
-                <span className="font-medium font-sans">kommt bald</span>
+                <span className="font-medium font-sans"><a href="tel:0221 29245070">0221 29245070</a></span>
               </p>
             </div>
           </div>
@@ -81,9 +81,8 @@ export default function Home() {
             <div className="mb-10">
               <h3 className="text-2xl font-semibold mb-6 text-gray-700 font-sans">Terminvereinbarung</h3>
               <p className="text-gray-600 leading-relaxed space-y-2 font-medium font-sans">
-                telefonisch (kommt bald) oder<br />
-                per Mail unter <span className="text-blue-600 hover:text-blue-700 transition-colors duration-200" title="Email senden"><a href="mailto:info@drschwan.de">info@drschwan.de</a></span> oder<br />
-                direkt im Terminkalender unter <span className="text-blue-600 hover:text-blue-700 transition-colors duration-200"><a href="https://www.termed.de" target="_blank" rel="noopener noreferrer">www.termed.de</a></span>
+                telefonisch <a href="tel:0221 29245070">0221 29245070</a> oder<br />
+                per Mail unter <span className="text-blue-600 hover:text-blue-700 transition-colors duration-200" title="Email senden"><a href="mailto:info@drschwan.de">info@drschwan.de</a></span> 
               </p>
             </div>
 
